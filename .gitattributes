@@ -1,0 +1,3 @@
+# Normalisation des fins de ligne. Ce depot ne porte que du texte ;
+# declarer des types binaires qu'il ne contient pas serait sans objet.
+* text=auto eol=lf
